@@ -39,7 +39,7 @@ Natnael Tadesse – natty98282@gmail.com
 
 
 <!-- Markdown link & img dfn's -->
-[grafana-image]: https://en.wikipedia.org/wiki/File:Grafana_logo.svg
+[grafana-image]: http://www.w3.org/2000/svg
 [grafana-url]: https://hub.docker.com/r/grafana/grafana
 [influxdb-url]: https://hub.docker.com/_/influxdb
 [wiki]: https://github.com/yourname/yourproject/wiki
