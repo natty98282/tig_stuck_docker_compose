@@ -1,5 +1,4 @@
 # Grafana Influxdb and Telegraf(TIG stuck setup using docker)
-> Short blurb about what your product does.
 
 [![Grafana Version][grafana-image]][grafana-url]
 [![InfluxDB Version][influx-image]][influxdb-url]
